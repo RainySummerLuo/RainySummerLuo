@@ -41,4 +41,4 @@ Recommend to fetch it with assigned keyserver: `--keyserver https://keys.openpgp
 
 You may also encounter the key `C4C3F07F733DA036`. This is also mine, which is dedicated for signing GitHub (or other VCS) commits. All of my commits should be signed by this key, or else its authenticity is questionable.
 
-![Screenshot](https://user-images.githubusercontent.com/12462465/116179562-7c7f5600-a70f-11eb-824e-c6eaa8ed306b.png)
+<img src="https://user-images.githubusercontent.com/12462465/116179562-7c7f5600-a70f-11eb-824e-c6eaa8ed306b.png" alt=":name" width="28%" />
