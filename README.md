@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RainySummerLuo&show_icons=true" />
 
-<img src="https://count.getloli.com/get/@:rainysummer?theme=gelbooru" alt=":name" width="36%" />
+<img src="https://count.getloli.com/get/@:rainysummer?theme=gelbooru" alt=":name" width="39%" />
 
 ## :information_source: whoami
 
