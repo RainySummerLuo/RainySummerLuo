@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RainySummerLuo&show_icons=true" />
 
-<br/>
+<br/><br/>
 
 <img src="https://count.getloli.com/get/@:rainysummer?theme=gelbooru" alt=":name" width="39%" />
 
@@ -31,9 +31,13 @@ RainySummer / RainyS / 夏雨天
 Laurence / Lawrence / LL.
 ```
 
+<br/>
+
 ##  :key: GPG / PGP
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainySummerLuo&layout=compact&langs_count=20" />
+
+<br/>
 
 My Public Key:
 
@@ -42,6 +46,8 @@ My Public Key:
 `92B3D853B226C55196ACBA101AC9F04BAF9A0570`
 
 Recommend to fetch it with assigned keyserver: `--keyserver https://keys.openpgp.org/`.
+
+<br/><br/>
 
 You may also encounter the key `C4C3F07F733DA036`. This is also mine, which is dedicated for signing GitHub (or other VCS) commits. All of my commits should be signed by this key, or else its authenticity is questionable.
 
