@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RainySummerLuo&show_icons=true" width="53%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RainySummerLuo&theme=github_dark&show_icons=true" width="55%" />
 
 <br/><br/>
 
-<img src="https://count.getloli.com/get/@:rainysummer?theme=gelbooru" alt=":name" width="43%" />
+<img src="https://count.getloli.com/get/@:rainysummer?theme=gelbooru" alt=":name" width="42%" />
 
 <br/>
 
@@ -35,7 +35,7 @@ Laurence / Lawrence / LL.
 
 ##  :key: GPG / PGP
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainySummerLuo&layout=compact&langs_count=20" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainySummerLuo&theme=github_dark&layout=compact&langs_count=20" />
 
 <br/>
 
