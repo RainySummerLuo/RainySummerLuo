@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-<img src="https://count.getloli.com/get/@:rainysummer?theme=gelbooru" alt=":name" width="39%" />
+<img src="https://count.getloli.com/get/@:rainysummer?theme=gelbooru" alt=":name" width="38%" />
 
 <br/>
 
