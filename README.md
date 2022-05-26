@@ -23,14 +23,9 @@ RainySummer / RainyS / 夏雨天
 Laurence / Lawrence / LL.
 ```
 
-<br/>
-
 ##  :key: GPG / PGP
 
-My Public Key:
+You may encounter the key `14E2BE0434A3FFC9`. This  is dedicated for signing GitHub (or other VCS) commits. All of my commits should be signed by this key, or else their authenticity is questionable.
 
-Recommend to fetch it with assigned keyserver: `--keyserver https://keys.openpgp.org/`.
-
-You may also encounter the key `14E2BE0434A3FFC9`. This is also mine, which is dedicated for signing GitHub (or other VCS) commits. All of my commits should be signed by this key, or else their authenticity is questionable.
-
-<img src="https://user-images.githubusercontent.com/12462465/170501306-36633491-d621-4921-b7d5-02381169ae67.png" alt=":name" />
+| ![](https://user-images.githubusercontent.com/12462465/170502455-cf0f0d20-1eb2-4d12-8bea-d7f1d03f7258.png) | ![](https://user-images.githubusercontent.com/12462465/170502469-126d8e6f-15cc-47c2-ae46-35fa998c32cc.png) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
