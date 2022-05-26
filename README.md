@@ -29,12 +29,8 @@ Laurence / Lawrence / LL.
 
 My Public Key:
 
-`1AC9F04BAF9A0570`
-
-`92B3D853B226C55196ACBA101AC9F04BAF9A0570`
-
 Recommend to fetch it with assigned keyserver: `--keyserver https://keys.openpgp.org/`.
 
-You may also encounter the key `C4C3F07F733DA036`. This is also mine, which is dedicated for signing GitHub (or other VCS) commits. All of my commits should be signed by this key, or else their authenticity is questionable.
+You may also encounter the key `14E2BE0434A3FFC9`. This is also mine, which is dedicated for signing GitHub (or other VCS) commits. All of my commits should be signed by this key, or else their authenticity is questionable.
 
-<img src="https://user-images.githubusercontent.com/12462465/116179562-7c7f5600-a70f-11eb-824e-c6eaa8ed306b.png" alt=":name" />
+<img src="https://user-images.githubusercontent.com/12462465/170501306-36633491-d621-4921-b7d5-02381169ae67.png" alt=":name" />
