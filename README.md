@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## :information_source: whoami
 
-Names:
 ```
 RainySummer / RainyS / 夏雨天
 Laurence / Lawrence / LL.
