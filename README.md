@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ## :information_source: whoami
 
 ```
-RainySummer / RainyS / 夏雨天
-Laurence / Lawrence / LL.
+- RainySummer / RainyS / 夏雨天
+- Laurence / Lawrence / Laurence Luo / LL.
+- LZC
 ```
 
 ##  :key: GPG
