@@ -15,6 +15,6 @@
 
 ##  :key: GPG
 
-You may encounter the key `14E2BE0434A3FFC9`. This is dedicated for signing GitHub (or other VCS) commits. All of my commits should be signed by this key or GitHub's key: `4AEE18F83AFDEB23`, or else their authenticity is questionable (Starting from `May 26 2022`, before that I used the key `C4C3F07F733DA036`).
+You may encounter the key `14E2BE0434A3FFC9`. This is dedicated for signing GitHub (or other VCS) commits. My commits should be signed by this key or GitHub's key: `4AEE18F83AFDEB23` (Starting from `May 26 2022`, before that I used the key `C4C3F07F733DA036`).
 
 [![](https://user-images.githubusercontent.com/12462465/173025061-d6f48838-a917-4e90-a348-68fc5f24c3aa.png)](#)
