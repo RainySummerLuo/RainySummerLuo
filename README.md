@@ -1,6 +1,6 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzcapp&theme=default)](#)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzcapp&theme=default)](#)&emsp;[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lzcapp&theme=default)](#)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzcapp&theme=default)](#)&emsp;[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzcapp&theme=default)](#)
 
 ## :desktop_computer: Environments
 
