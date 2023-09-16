@@ -1,6 +1,6 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzcapp&theme=default)](#)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzcapp&theme=default)](#)&emsp;[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzcapp&theme=default)](#)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzcapp&theme=default)](#)&emsp;[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lzcapp&theme=default)](#)
 
 ## :desktop_computer: Environments
 
@@ -15,3 +15,5 @@
 Reach me @ admin@lzc.app/hi@lzc.app.
 
 If I am not active here, I am probably at my git server: git.lzc.app
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzcapp&theme=default)](#)&emsp;[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lzcapp&theme=default&utcOffset=8)](#)
