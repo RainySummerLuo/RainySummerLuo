@@ -11,3 +11,7 @@
 [![](https://img.shields.io/badge/Windows-C%23-brightgreen?style=for-the-badge&logo=windows)](#)&ensp;
 [![](https://img.shields.io/badge/Android-Kotlin-blue?style=for-the-badge&logo=android)](#)&ensp;
 [![](https://img.shields.io/badge/Others-C++,%20Java,%20HTML,%20CSS,%20JS...-blue?style=for-the-badge&logo=codereview)](#)
+
+Reach me @ admin@lzc.app/hi@lzc.app.
+
+If I am not active here, I am probably at my git server: git.lzc.app
