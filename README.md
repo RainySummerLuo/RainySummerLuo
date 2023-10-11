@@ -4,7 +4,7 @@
 
 ## :floppy_disk: Activity
 
-If I am not active here, I am probably at my git server: **git.lzc.app**.
+If I am not active here, I am probably working (at my git server: **git.lzc.app**).
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzcapp&theme=default)](#)&emsp;[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lzcapp&theme=default&utcOffset=8)](#)
 
