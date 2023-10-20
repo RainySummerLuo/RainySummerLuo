@@ -10,7 +10,7 @@ If I am not active here, I am probably working (at my git server: **git.lzc.app*
 
 ## :e-mail: Contact
 
-Reach me @ admin@lzc.app/hi@lzc.app.
+Reach me @ admin@lzc.app / hi@lzc.app.
 
 ## :desktop_computer: Environments
 
