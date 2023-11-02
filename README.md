@@ -12,8 +12,6 @@ If I am not active here, I am probably working (or at my Git server: **git.lzc.a
 
 Reach me @ admin@lzc.app / hi@lzc.app
 
-Or <a rel="me" href="https://mastodon.social/@lzc">Mastodon: lzc@mastodon.social</a>
-
 ## :desktop_computer: Environments
 
 [![](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows)](#)&ensp;
