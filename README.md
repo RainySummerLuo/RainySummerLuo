@@ -18,6 +18,7 @@ Reach me @ admin@lzc.app / hi@lzc.app
 [![](https://img.shields.io/badge/WSL-Debian-green?style=for-the-badge&logo=ubuntu)](#)&ensp;
 [![](https://img.shields.io/badge/Google-Android-green?style=for-the-badge&logo=android)](#)&ensp;
 
-[![](https://img.shields.io/badge/Windows-C%23-brightgreen?style=for-the-badge&logo=windows)](#)&ensp;
+[![](https://img.shields.io/badge/.NET-C%23-brightgreen?style=for-the-badge&logo=windows)](#)&ensp;
+[![](https://img.shields.io/badge/.NET-Visual%20Basic-brightgreen?style=for-the-badge&logo=windows)](#)&ensp;
 [![](https://img.shields.io/badge/Android-Kotlin-blue?style=for-the-badge&logo=android)](#)&ensp;
 [![](https://img.shields.io/badge/Others-C++,%20Java,%20HTML,%20CSS,%20JS...-blue?style=for-the-badge&logo=codereview)](#)
