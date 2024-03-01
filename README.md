@@ -8,6 +8,11 @@ If I am not active here, I am probably working (or at my Git server: **git.lzc.a
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzcapp&theme=default)](#)&emsp;[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lzcapp&theme=default&utcOffset=8)](#)
 
+## 🔑 Key
+
+- GPG:  [`F617079276DFBFBD`](https://keyserver.ubuntu.com/pks/lookup?search=F617079276DFBFBD&fingerprint=on&op=index)
+- LZC.app CA:  `6200BBCAD00FD4CA`
+
 ## :e-mail: Contact
 
 Reach me @ admin@lzc.app / hi@lzc.app
