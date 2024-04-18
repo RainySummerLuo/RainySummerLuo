@@ -4,7 +4,7 @@
 
 ## :floppy_disk: Activity
 
-If I am not active here, I am probably working (or at my Git server: **git.lzc.app**).
+If I am not active here, I am probably working (or at my Git server: **git.seeleo.com**).
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzcapp&theme=default)](#)&emsp;[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lzcapp&theme=default&utcOffset=8)](#)
 
@@ -15,7 +15,7 @@ If I am not active here, I am probably working (or at my Git server: **git.lzc.a
 
 ## :e-mail: Contact
 
-Reach me @ admin@lzc.app / hi@lzc.app
+Reach me at admin@lzc.app / hi@lzc.app
 
 ## :desktop_computer: Environments
 
