@@ -1,4 +1,4 @@
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzcapp&theme=default)](#)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzcapp&theme=default" width="68.8%">
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzcapp&theme=default)](#)&emsp;[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lzcapp&theme=default)](#)
 
