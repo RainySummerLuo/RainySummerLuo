@@ -1,12 +1,12 @@
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzcapp&theme=default" width="68.8%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzcapp&theme=default" width="100%">
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzcapp&theme=default)](#)&emsp;[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lzcapp&theme=default)](#)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzcapp&theme=default" width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lzcapp&theme=default" width="50%">
 
 ## :floppy_disk: Activity
 
 If I am not active here, I am probably working (or at my Git server: **git.seeleo.com**).
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzcapp&theme=default)](#)&emsp;[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lzcapp&theme=default&utcOffset=8)](#)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzcapp&theme=default" width="50%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lzcapp&theme=default&utcOffset=8" width="50%">
 
 ## 🔑 Key
 
