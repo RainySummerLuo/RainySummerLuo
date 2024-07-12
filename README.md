@@ -11,7 +11,7 @@ If I am not active here, I am probably working (or at my Git server: **git.seele
 ## 🔑 Key
 
 - GPG:  [`F617079276DFBFBD`](https://keyserver.ubuntu.com/pks/lookup?search=F617079276DFBFBD&fingerprint=on&op=index)
-- 
+
 ## :e-mail: Contact
 
 Reach me at admin@lzc.app / hi@lzc.app
