@@ -12,7 +12,7 @@ If I am not active here, I am probably working (or at my Git server: **[git.seel
 
 ## 🔑 Key
 
-GPG:  [`F617079276DFBFBD`](https://keyserver.ubuntu.com/pks/lookup?search=F617079276DFBFBD&fingerprint=on&op=index)
+GPG:  [`F617` `0792` `76DF` `BFBD`](https://keyserver.ubuntu.com/pks/lookup?search=F617079276DFBFBD&fingerprint=on&op=index)
 
 ## :e-mail: Contact
 
